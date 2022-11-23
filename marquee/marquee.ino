@@ -24,7 +24,7 @@
 /**********************************************
   Edit Settings.h for personalization
 ***********************************************/
-// nop, nop
+
 #include "Settings.h"
 
 #define VERSION "2.16"
